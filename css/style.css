@@ -1,0 +1,40 @@
+/* Always set the map height explicitly to define the size of the div
+* element that contains the map. */
+#map {
+height: 85%;
+width: 100%;
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+height: 100%;
+margin: 0;
+padding: 0;
+}
+
+.bg-red {
+    background-color:  #E2001A;
+    color: white;
+}
+
+.titre {
+    padding: 10px;
+}
+
+.text-white:hover {
+    text-decoration: underline;
+}
+
+/* Description of the infowindows*/
+.infowindow {
+    width: 100%;
+}
+
+.infoWindowTitle {
+    color : red;
+    font-size: 12px;
+}
+
+.infoWindowPara {
+    color : black;
+    font-size: 10px;
+}
