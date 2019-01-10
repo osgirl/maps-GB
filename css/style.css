@@ -11,6 +11,8 @@ margin: 0;
 padding: 0;
 }
 
+.navbar-dark {background-color: #3c3c3b!important;}
+
 .bg-red {
     background-color:  #E2001A;
     color: white;
@@ -37,4 +39,29 @@ padding: 0;
 .infoWindowPara {
     color : black;
     font-size: 10px;
+}
+
+.btn-GB {
+  background-color: #3C3C3B;
+  color: white;
+  width: 100%;
+  font-size: 10px;
+  transition: all 1s;
+  -webkit-transition: all 1s;
+  -moz-transition: all 1s;
+  -o-transition: all 1s; 
+}
+
+.cookies {
+  padding: 15px 50px;
+  display: none;
+  background-color: white;
+  bottom: 0px;
+  border-top: 2px solid rgb(68, 68, 68);
+  position: fixed;
+}
+
+.cookies div div {
+  margin-bottom: 5px;
+  font-size: 12px;
 }
