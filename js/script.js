@@ -2323,7 +2323,7 @@ var dealer = [
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -2.401794,47.534794 ]
+       "coordinates":  [ -1.3325310000000172,48.626164 ]
     },
     "properties": {
     "Nom":"RAULT Louis",
